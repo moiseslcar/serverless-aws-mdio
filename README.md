@@ -23,8 +23,7 @@ This template does not include any kind of persistence (database). For more adva
 ```
 $ serverless deploy
 ```
-*** TUDO BASEADO NO PROJETO REFERÊNCIA DO INSTRUTOR - 
-  - github.com/cassianobrexbit/dio-live-serverless-2907 ***
+*** TUDO BASEADO NO PROJETO REFERÊNCIA DO INSTRUTOR - github.com/cassianobrexbit/dio-live-serverless-2907 ***
 
 After deploying, you should see output similar to:
 
